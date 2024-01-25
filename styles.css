@@ -5,20 +5,21 @@
 	gap:5;
 }
 .box{
-	height:50px;
+	
 	background-color:#ffffff;
 	display:flax;
 	margin-top:8px;
 	justify-content:center;
 	align-items:center;
-	padding:2px 5px;
+	padding:2px 7px;
+	border:1px graytext;
 }
 .poim{
 	padding:5px;
 }
 .author{
-	display:flex;
-	justify-content:end;
+	
+	text-align:right;
 	font-style:italic;
 	margin-left:4px;
 }
